@@ -11,6 +11,7 @@ function calculator(){
     console.log("product of: "+ x + " * "+ y +" = "+prod); 
     console.log("division of: "+ x + " / "+ y +" = "+div);
     console.log("calculator ended ...");
+    console.log("Great!!!");
 
 }
 calculator()
